@@ -6,4 +6,7 @@ print("el estudiante no es tan burro XD")
 =======
 
 print("Hellou your are can fiuter")
->>>>>>> c69236521ec807207809f218aeee8d5c7db9de3c
+>>>>>>> c69236521ec807207809f218aeee8d5c7db9de3
+print("wenas dañe esta joda XD")
+fEND)
+
